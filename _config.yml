@@ -1,3 +1,4 @@
+layout_spectrum: 0.39603705890476704
 typography_spectrum: 0.48313373210839927
 color:
   brandStrength: 0.8306894197594374
@@ -10,7 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.39603705890476704
 name: architecture 8
-title: live architecture
-description: 'live architecture '
